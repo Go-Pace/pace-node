@@ -12,9 +12,8 @@ Go Pace is a delivery service that enables everyone to get what they want when t
 
 ## Installation
 
-```
+```javascript
 npm install gopace --save
 # OR
 yarn add gopace
-
 ```
